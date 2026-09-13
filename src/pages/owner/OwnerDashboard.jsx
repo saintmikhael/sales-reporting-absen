@@ -539,7 +539,7 @@ export default function OwnerDashboard() {
       }} className="owner-sidebar">
         <div style={{ padding: "18px 18px 14px" }}>
           <div className="mono" style={{ fontSize: 11, opacity: 0.55, letterSpacing: 1 }}>sales reporting</div>
-          <div style={{ fontSize: 18, fontWeight: 600 }}>Rute</div>
+          <div style={{ fontSize: 18, fontWeight: 600 }}>Dashboard</div>
         </div>
         <div style={{ flex: 1, padding: "4px 8px" }}>
           {NAV.map((n) => (
