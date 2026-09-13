@@ -32,7 +32,7 @@ export default function Login() {
     <div style={{ minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center", padding: 20 }}>
       <div style={{ width: "100%", maxWidth: 400 }}>
         <div className="mono" style={{ fontSize: 13, color: COLOR.muted, letterSpacing: 1, marginBottom: 6 }}>sales reporting</div>
-        <div style={{ fontSize: 26, fontWeight: 600, marginBottom: 24 }}>Rute</div>
+        <div style={{ fontSize: 26, fontWeight: 600, marginBottom: 24 }}>Dashboard</div>
 
         <div style={{ display: "flex", gap: 0, marginBottom: 18, border: "1px solid " + COLOR.line, borderRadius: 4, overflow: "hidden" }}>
           {["login", "register"].map((m) => (
